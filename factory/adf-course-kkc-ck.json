@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-kkc-ck",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e4f84171-fc8d-4729-95b1-5b41422f6dc2",
+		"tenantId": "a10d73c9-5bf0-49cd-bcf6-f6e381b4c279"
+	}
+}
