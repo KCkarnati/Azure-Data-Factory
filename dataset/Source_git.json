@@ -1,0 +1,22 @@
+{
+	"name": "Source_git",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LSGit",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "KCkarnati/Azure-Data-Factory/refs/heads/main/AnshLamba/Rawfiles/Fact_Sales_2.csv"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
